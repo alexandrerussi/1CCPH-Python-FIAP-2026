@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Roberto",
+    "company": "Nubank",
+    "email": "r@b.com",
+    "stage": "novo",
+    "created": "2026-09-08"
+  },
+  {
+    "name": "Henry",
+    "company": "Burger King",
+    "email": "h@a.com",
+    "stage": "novo",
+    "created": "2026-09-08"
+  }
+]
